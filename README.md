@@ -1,5 +1,5 @@
 # dledwith.com
-My simple personal website.
+My simple, personal website.
 
 ## Stack
 Hosted in a Debian 12 virtual machine on my NAS. NGINX web server.
