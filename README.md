@@ -1,10 +1,12 @@
 # dledwith.com
-Static site for dledwith.com. Built with Bootstrap.
+My simple personal website.
 
-## Local dev
-Open `index.html` with a local server (e.g., `python -m http.server 8080`).
+## Stack
+Hosted in a Debian 12 virtual machine on my NAS. NGINX web server.
+Routed through Cloudflare Tunnels, which is free. 
+I pay nothing aside from the domain registration fee.
 
 ## Structure
-- partials/: navbar/footer includes
+I use server-side includes (SSI).
+- partials/: navbar/footer/boilerplate includes
 - pages/: subpages
-- css/, js/, img/: assets
