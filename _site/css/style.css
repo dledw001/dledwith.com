@@ -1,0 +1,27 @@
+.cfa-reg{
+  display: inline-block;
+  font-family: inherit;
+  font-size: 0.55em;
+  line-height: 1;
+  transform: translateY(-0.10em);
+}
+
+.legal-note { margin-top: 1rem !important; margin-bottom: 0; }
+
+.icon-link-hover i { 
+  transition: color .15s ease; 
+}
+
+.icon-link-hover:hover i { 
+  color: var(--bs-body-color); 
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.navbar-brand img {
+  image-rendering: pixelated;
+}
