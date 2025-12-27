@@ -1,8 +1,8 @@
 title: dledwith.com
 description: >-
   Investment systems analyst and computer science student. I build data pipelines, web apps, and tools.
-url: "https://dledw001.github.io"
-baseurl: "/dledwith.com" # set to "" once the custom domain is live
+url: "https://dledwith.com"
+baseurl: ""
 theme: null
 plugins: []
 
